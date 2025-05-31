@@ -22,7 +22,6 @@ Tecnologías: Next.js, TypeScript, Ant Design.
 TaskManager: Aplicación de gestión de tareas con autenticación y API REST.
 Tecnologías: React, Node.js, MongoDB.
 
-Portfolio: Portafolio personal moderno en React, con animaciones y modo oscuro.
 Tecnologías: React, Tailwind CSS, Framer Motion.
 
 
