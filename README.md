@@ -1,16 +1,20 @@
-## Hi there 👋
+<!-- Perfil de GitHub: ManuelMillan1979 -->
+<h1 align="center">🧠 Manuel Millán — Dev Profile 64-bit</h1>
 
-<!--
-**ManuelMillan1979/ManuelMillan1979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Active-blue?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Status-Compiling-success?style=flat-square&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Machine-64--bit-critical?style=flat-square&logo=windows" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Skills & Stack
+
+```bash
+🖥️ Languages:     JavaScript | TypeScript | Python
+⚙️ Frameworks:    React | Next.js | Node.js | Express
+🧱 Tools:         Git | GitHub | Vite |
+🎨 Front-End:     HTML | CSS | Sass | TailwindCSS
+🧠 Back-End:      PostgreSQL | Firebase
+🛠️ DevOps:        GitHub Actions | CI/CD | Vercel | Netlify
